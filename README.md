@@ -1,4 +1,4 @@
-This is intended to be a concise explanation of everything you need to work with GitHub. See also GitHub's own [documentation](https://docs.github.com/en/get-started/using-git/about-git).
+ This is intended to be a concise explanation of everything you need to work with GitHub. See also GitHub's own [documentation](https://docs.github.com/en/get-started/using-git/about-git).
 
 ### Git
 To interface with GitHub, you need git installed. On Mac and Linux, you can do this with your package manager, and it may even be installed already. On Windows, download git for windows [here](https://gitforwindows.org/). For the installation, just leave everything at its default.
