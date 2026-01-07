@@ -3,7 +3,7 @@ This is intended to be a concise explanation of everything you need to work with
 ### Git
 To interface with GitHub, you need git installed. On Mac and Linux, you can do this with your package manager, and it may even be installed already. On Windows, download git for windows [here](https://gitforwindows.org/). For the installation, just leave everything at its default.
 
-There's also a [version with a graphical UI](https://desktop.github.com/download/) that's easier to use.
+There's also a [version with a graphical UI](https://desktop.github.com/download/) that's easier to use. I recommend that you use this graphical UI.
 
 ### Authentication
 Follow the instructions [here](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/checking-for-existing-ssh-keys). There is one version for each of Windows/Mac/Linux. You probably won't have a key yet, so then go through 'Generate new SSH key'. Either way, then do 'Add a new SSH key'. Finally, 'Test your SSH connection'.
